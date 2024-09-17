@@ -1,4 +1,4 @@
 package SEPT24.Eg_040924;
 
-public class LAB001 {
+public class Lab1 {
 }

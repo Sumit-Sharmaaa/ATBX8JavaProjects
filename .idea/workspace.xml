@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Task1 Commit and Push" />
+    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Task1 Commit and Push">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_060924/Lab3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_150924_String/Lab4_String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_150924_String/Lab5_String2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_150924_String/Lab6_String3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_150924_String/Lab7_String4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_Math/Class/Lab10_TernaryOp_MinMax_of_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_Math/Class/Lab11_Increment_Decrement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_Math/Class/Lab12_mathClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_Math/Class/Lab9_TernaryOp_Min_Max_of_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_SwitchCase/Lab13_switchCaseWay1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_SwitchCase/Lab14_SwitchWay2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_SwitchCase/Lab15_SwitchCaseWay3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_SwitchCase/Lab16_switchCaseWayNew4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_SwitchCase/Lab17_SwitchCaseNewWay5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_170924_ForLoop/Lab14_For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_170924_ForLoop/Lab8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_040924/LAB001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_040924/Lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_040924/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_040924/Lab2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_060924/Task1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +43,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sumit-Sharmaaa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sumit-Sharmaaa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sumit-Sharmaaa/ATBX8JavaProjects.git",
-    "accountId": "6f01151b-383d-4f0c-aaee-158ef99e9f4f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sumit-Sharmaaa/ATBX8JavaProjects.git&quot;,
+    &quot;accountId&quot;: &quot;6f01151b-383d-4f0c-aaee-158ef99e9f4f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lsCGDOfTuRGat3aSrvFKTDHz0j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,12 +68,105 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LAB_String.executor": "Run",
+    "Application.LAB_String2.executor": "Run",
+    "Application.LAB_String3.executor": "Run",
+    "Application.LAB_String4.executor": "Run",
+    "Application.Lab001.executor": "Run",
+    "Application.Lab14_For1.executor": "Run",
+    "Application.Lab_01_switchCase.executor": "Run",
+    "Application.Lab_04_Min_Max_of_3_using_Ternary_Operator.executor": "Run",
+    "Application.Lab_For001.executor": "Run",
+    "Application.Lab_Increment_Decrement_02.executor": "Run",
+    "Application.Lab_String03.executor": "Run",
+    "Application.Lab_SwitchCase02.executor": "Run",
+    "Application.Lab_SwitchCase04.executor": "Run",
+    "Application.Lab_math01.executor": "Run",
+    "Application.Lab_switchCase3.executor": "Run",
+    "Application.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/sumit.sharma/IdeaProjects/ATBX8JavaProjects/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Lab8">
+    <configuration name="Lab14_For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_170924_ForLoop.Lab14_For1" />
+      <module name="ATBX8JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEPT24.Eg_170924_ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab14_SwitchCaseWay2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_160924_SwitchCase.Lab14_SwitchCaseWay2" />
+      <module name="ATBX8JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEPT24.Eg_170924_ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab16_switchCaseNewWay4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_160924_SwitchCase.Lab16_switchCaseNewWay4" />
+      <module name="ATBX8JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEPT24.Eg_170924_ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab17_SwitchCaseNewWay5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_160924_SwitchCase.Lab17_SwitchCaseNewWay5" />
+      <module name="ATBX8JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEPT24.Eg_170924_ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_170924_ForLoop.Lab8" />
+      <module name="ATBX8JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEPT24.Eg_170924_ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab8" />
+        <item itemvalue="Application.Lab14_For1" />
+        <item itemvalue="Application.Lab17_SwitchCaseNewWay5" />
+        <item itemvalue="Application.Lab16_switchCaseNewWay4" />
+        <item itemvalue="Application.Lab14_SwitchCaseWay2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725974609509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task1 Commit and Push">
+      <option name="closed" value="true" />
+      <created>1725975003803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725975003803</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,7 +200,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
