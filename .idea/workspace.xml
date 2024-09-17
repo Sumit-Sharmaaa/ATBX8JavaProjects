@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Task1 Commit and Push">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_060924/Lab3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_150924_String/Lab4_String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_150924_String/Lab5_String2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_150924_String/Lab6_String3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_150924_String/Lab7_String4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_Math/Class/Lab10_TernaryOp_MinMax_of_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_Math/Class/Lab11_Increment_Decrement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_Math/Class/Lab12_mathClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_Math/Class/Lab9_TernaryOp_Min_Max_of_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_SwitchCase/Lab13_switchCaseWay1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_SwitchCase/Lab14_SwitchWay2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_SwitchCase/Lab15_SwitchCaseWay3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_SwitchCase/Lab16_switchCaseWayNew4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_160924_SwitchCase/Lab17_SwitchCaseNewWay5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_170924_ForLoop/Lab14_For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_170924_ForLoop/Lab8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_040924/LAB001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_040924/Lab1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_040924/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_040924/Lab2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_060924/Task1.java" beforeDir="false" />
-    </list>
+    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Commit &amp; Push by Sumit on 17-09-2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +51,7 @@
     "Application.LAB_String4.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab14_For1.executor": "Run",
+    "Application.Lab8.executor": "Run",
     "Application.Lab_01_switchCase.executor": "Run",
     "Application.Lab_04_Min_Max_of_3_using_Ternary_Operator.executor": "Run",
     "Application.Lab_For001.executor": "Run",
@@ -192,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725975003803</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit &amp; Push by Sumit on 17-09-2024">
+      <option name="closed" value="true" />
+      <created>1726551288101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726551288101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +200,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task1 Commit and Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task1 Commit and Push" />
+    <MESSAGE value="Commit &amp; Push by Sumit on 17-09-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit &amp; Push by Sumit on 17-09-2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
