@@ -2,7 +2,7 @@ package SEPT24.Eg_Loops_190924;
 
 import java.util.Scanner;
 
-public class Lab25_FistBuzz {
+public class Lab25_FizzBuzz {
     public static void main(String[] args) {
         // program to print the no's b/w 1 to 100
         // print Fizz for the multiples of 3
