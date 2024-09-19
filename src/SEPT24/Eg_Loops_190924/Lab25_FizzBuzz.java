@@ -18,16 +18,13 @@ public class Lab25_FizzBuzz {
             if(i%3==0 && i%5==0)
             {
                 System.out.println("FizzBuzz");
-                continue;
             }
            else if(i%3==0)
             {
                 System.out.println("Fizz");
-                continue;
             }
            else if (i%5==0) {
                 System.out.println("Buzz");
-                continue;
             }
             else
             {
