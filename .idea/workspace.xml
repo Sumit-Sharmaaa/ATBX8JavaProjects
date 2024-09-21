@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Commit &amp; Push by Sumit on 17-09-2024">
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_170924_IfElse/Lab18_Positive_Negative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_170924_IfElse/Lab19_LargestIn3Nos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_170924_IfElse/Lab20_Vowel_consonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_170924_IfElse/Lab22_PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_170924_IfElse/lab21_LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_Loops_190924/Lab23_Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_Loops_190924/Lab24_PrimeNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_Loops_190924/Lab25_FistBuzz.java" afterDir="false" />
+    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Commit &amp; Push by Sumit on 20-09-2024">
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab26_Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab27_pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab28_Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab29_Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab30_Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab31_Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab32_Pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab33_Pattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab34_Pattern9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab35_Pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab36_Pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab37_Pattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab38_Pattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab39_Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab40_Pattern15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab41_Pattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab42_Pattern17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +76,24 @@
     "Application.Lab23_Factorial.executor": "Run",
     "Application.Lab24_PrimeNo.executor": "Run",
     "Application.Lab25_FistBuzz.executor": "Run",
+    "Application.Lab25_FizzBuzz.executor": "Run",
+    "Application.Lab26_Pattern1.executor": "Run",
+    "Application.Lab27_pattern2.executor": "Run",
+    "Application.Lab28_Pattern.executor": "Run",
+    "Application.Lab29_Pattern4.executor": "Run",
+    "Application.Lab30_Pattern5.executor": "Run",
+    "Application.Lab31_Pattern6.executor": "Run",
+    "Application.Lab32_Pattern7.executor": "Run",
+    "Application.Lab33_Pattern8.executor": "Run",
+    "Application.Lab34_Pattern9.executor": "Run",
+    "Application.Lab35_Pattern10.executor": "Run",
+    "Application.Lab36_Pattern11.executor": "Run",
+    "Application.Lab37_Pattern12.executor": "Run",
+    "Application.Lab38_Pattern13.executor": "Run",
+    "Application.Lab39_Pattern14.executor": "Run",
+    "Application.Lab40_Pattern15.executor": "Run",
+    "Application.Lab41_Pattern16.executor": "Run",
+    "Application.Lab42_Pattern17.executor": "Run",
     "Application.Lab8.executor": "Run",
     "Application.Lab_01_switchCase.executor": "Run",
     "Application.Lab_04_Min_Max_of_3_using_Ternary_Operator.executor": "Run",
@@ -86,13 +113,13 @@
     "onboarding.tips.debug.path": "C:/Users/sumit.sharma/IdeaProjects/ATBX8JavaProjects/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab25_FistBuzz">
-    <configuration name="Lab19_LargestIn3Nos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_170924_IfElse.Lab19_LargestIn3Nos" />
+  <component name="RunManager" selected="Application.Lab42_Pattern17">
+    <configuration name="Lab38_Pattern13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eg_200924_Patterns.Lab38_Pattern13" />
       <module name="ATBX8JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT24.Eg_170924_IfElse.*" />
+          <option name="PATTERN" value="Eg_200924_Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab23_Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_Loops_190924.Lab23_Factorial" />
+    <configuration name="Lab39_Pattern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eg_200924_Patterns.Lab39_Pattern14" />
       <module name="ATBX8JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT24.Eg_Loops_190924.*" />
+          <option name="PATTERN" value="Eg_200924_Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab24_PrimeNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_Loops_190924.Lab24_PrimeNo" />
+    <configuration name="Lab40_Pattern15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eg_200924_Patterns.Lab40_Pattern15" />
       <module name="ATBX8JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT24.Eg_Loops_190924.*" />
+          <option name="PATTERN" value="Eg_200924_Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab25_FistBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_Loops_190924.Lab25_FistBuzz" />
+    <configuration name="Lab41_Pattern16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eg_200924_Patterns.Lab41_Pattern16" />
       <module name="ATBX8JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT24.Eg_Loops_190924.*" />
+          <option name="PATTERN" value="Eg_200924_Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab21_LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_170924_IfElse.lab21_LeapYear" />
+    <configuration name="Lab42_Pattern17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eg_200924_Patterns.Lab42_Pattern17" />
       <module name="ATBX8JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT24.Eg_170924_IfElse.*" />
+          <option name="PATTERN" value="Eg_200924_Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab25_FistBuzz" />
-        <item itemvalue="Application.Lab24_PrimeNo" />
-        <item itemvalue="Application.Lab23_Factorial" />
-        <item itemvalue="Application.lab21_LeapYear" />
-        <item itemvalue="Application.Lab19_LargestIn3Nos" />
+        <item itemvalue="Application.Lab42_Pattern17" />
+        <item itemvalue="Application.Lab41_Pattern16" />
+        <item itemvalue="Application.Lab40_Pattern15" />
+        <item itemvalue="Application.Lab39_Pattern14" />
+        <item itemvalue="Application.Lab38_Pattern13" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +230,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726551622535</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit &amp; Push by Sumit on 20-09-2024">
+      <option name="closed" value="true" />
+      <created>1726771088493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726771088493</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit &amp; Push by Sumit on 20-09-2024">
+      <option name="closed" value="true" />
+      <created>1726771155728</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726771155728</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit &amp; Push by Sumit on 20-09-2024">
+      <option name="closed" value="true" />
+      <created>1726771303465</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726771303465</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +277,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task1 Commit and Push" />
     <MESSAGE value="Commit &amp; Push by Sumit on 17-09-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit &amp; Push by Sumit on 17-09-2024" />
+    <MESSAGE value="Commit &amp; Push by Sumit on 20-09-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit &amp; Push by Sumit on 20-09-2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
