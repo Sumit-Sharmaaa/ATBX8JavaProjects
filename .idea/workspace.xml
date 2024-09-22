@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Commit &amp; Push by Sumit on 20-09-2024">
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab26_Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab27_pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab28_Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab29_Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab30_Pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab31_Pattern6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab32_Pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab33_Pattern8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab34_Pattern9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab35_Pattern10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab36_Pattern11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab37_Pattern12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab38_Pattern13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab39_Pattern14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab40_Pattern15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab41_Pattern16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab42_Pattern17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Commit &amp; Push by Sumit on 20-09-2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726771303465</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit &amp; Push by Sumit on 20-09-2024">
+      <option name="closed" value="true" />
+      <created>1726944405363</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726944405363</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
