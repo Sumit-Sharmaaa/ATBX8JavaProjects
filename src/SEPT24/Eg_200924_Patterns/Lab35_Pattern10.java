@@ -1,4 +1,4 @@
-package Eg_200924_Patterns;
+package SEPT24.Eg_200924_Patterns;
 
 import java.util.Scanner;
 

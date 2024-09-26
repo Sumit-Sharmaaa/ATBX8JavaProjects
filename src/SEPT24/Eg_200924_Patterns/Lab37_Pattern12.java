@@ -1,25 +1,23 @@
-package Eg_200924_Patterns;
+package SEPT24.Eg_200924_Patterns;
 
 import java.util.Scanner;
 
-public class Lab38_Pattern13 {
+public class Lab37_Pattern12 {
     /*
-            E
-            DE
+            A
+            BC
             CDE
-            BCDE
-            ABCDE
+            DEF
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the no of Rows");
+        System.out.println("Enter the no of rows");
         int rows = sc.nextInt();
 
         for(int i=1;i<=rows;i++)
-        {
-            char ch= 'E';
-            ch = (char)(ch-i+1);
-            for (int j=1;j<=i;j++)
+        {   char ch='A';
+            ch= (char)(ch+i-1);
+            for(int j=1;j<=i;j++)
             {
                 System.out.print(ch);
                 ch++;

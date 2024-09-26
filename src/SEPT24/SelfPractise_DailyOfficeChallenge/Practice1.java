@@ -1,4 +1,4 @@
-package SelfPractise_DailyOfficeChallenge;
+package SEPT24.SelfPractise_DailyOfficeChallenge;
 
 import java.util.Scanner;
 
