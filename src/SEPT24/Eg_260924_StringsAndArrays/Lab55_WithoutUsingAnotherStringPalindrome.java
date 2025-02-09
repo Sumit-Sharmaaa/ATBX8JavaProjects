@@ -1,4 +1,4 @@
-package SEPT24.Eg_260924_Strings;
+package SEPT24.Eg_260924_StringsAndArrays;
 
 import java.util.Scanner;
 

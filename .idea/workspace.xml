@@ -4,40 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Commit &amp; Push by Sumit on 22-09-2024">
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_220924_Arrays/Lab44_Arrays1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_220924_Arrays/Lab45_Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_220924_Arrays/Lab46_Arrays3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_220924_Arrays/Lab47_Arrays4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_220924_Arrays/Lab48_Array5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_250924_2D_Arrays/Lab49_Max_2D_Input_Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_250924_2D_Arrays/Lab50_Max_2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_250924_2D_Arrays/Lab51_FindElementin2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_250924_2D_Arrays/Lab52_Transposeof2dArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_Strings/Lab53_StringContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_Strings/Lab54_PalindromeUsingAnotherString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_Strings/Lab55_WithoutUsingAnotherStringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_Strings/Lab56_PalindromeUsingStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_Loops_190924/Lab43_SimpleInterest.java" afterDir="false" />
+    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Commit &amp; Push by Sumit on 27-09-2024">
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_StringsAndArrays/Lab57_PrintStringRemovingDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_StringsAndArrays/Lab58_AnagramOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_StringsAndArrays/Lab59_FindAllDuplicatesinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_StringsAndArrays/Lab60_AllStringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_StringsAndArrays/Lab61_AllArrayMenthods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_290924_OOPS/Lab62_ClassesAndObjectsIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_290924_OOPS/Lab63_InitiazingAnObjectUsingReferenceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT24/Eg_290924_OOPS/Lab64_InitializingAnObjectUsingMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab26_Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab26_Pattern1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab27_pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab27_pattern2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab28_Pattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab28_Pattern3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab29_Pattern4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab29_Pattern4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab30_Pattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab30_Pattern5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab31_Pattern6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab31_Pattern6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab32_Pattern7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab32_Pattern7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab33_Pattern8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab33_Pattern8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab34_Pattern9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab34_Pattern9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab35_Pattern10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab35_Pattern10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab36_Pattern11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab36_Pattern11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab37_Pattern12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab37_Pattern12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab38_Pattern13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab38_Pattern13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab39_Pattern14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab39_Pattern14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab40_Pattern15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab40_Pattern15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab41_Pattern16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab41_Pattern16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eg_200924_Patterns/Lab42_Pattern17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_200924_Patterns/Lab42_Pattern17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SelfPractise_DailyOfficeChallenge/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/SelfPractise_DailyOfficeChallenge/Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_060924/Lab3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_060924/Lab3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_150924_String/Lab5_String2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_150924_String/Lab5_String2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_260924_Strings/Lab53_StringContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_StringsAndArrays/Lab53_StringContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_260924_Strings/Lab54_PalindromeUsingAnotherString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_StringsAndArrays/Lab54_PalindromeUsingAnotherString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_260924_Strings/Lab55_WithoutUsingAnotherStringPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_StringsAndArrays/Lab55_WithoutUsingAnotherStringPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT24/Eg_260924_Strings/Lab56_PalindromeUsingStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT24/Eg_260924_StringsAndArrays/Lab56_PalindromeUsingStringBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +67,7 @@
     "Application.LAB_String4.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab14_For1.executor": "Run",
+    "Application.Lab17_SwitchCaseNewWay5.executor": "Run",
     "Application.Lab18_Positive_Negative.executor": "Run",
     "Application.Lab19_LargestIn3Nos.executor": "Run",
     "Application.Lab20_Vowel_consonant.executor": "Run",
@@ -117,13 +100,24 @@
     "Application.Lab48_Array5.executor": "Run",
     "Application.Lab49_Max_2DArray.executor": "Run",
     "Application.Lab49_Max_2D_Input_Output.executor": "Run",
+    "Application.Lab4_String1.executor": "Run",
     "Application.Lab51_FindElementin2DArray.executor": "Run",
     "Application.Lab52_Transposeof2dArray.executor": "Run",
     "Application.Lab53_StringContainsDuplicate.executor": "Run",
     "Application.Lab54_Palindrome.executor": "Run",
     "Application.Lab54_PalindromeUsingAnotherString.executor": "Run",
     "Application.Lab56_PalindromeUsingStringBuilder.executor": "Run",
+    "Application.Lab57_PrintStringRemovingDuplicates.executor": "Run",
+    "Application.Lab58_AnagramOrNot.executor": "Run",
+    "Application.Lab59_FindAllDuplicatesinArray.executor": "Run",
+    "Application.Lab5_String2.executor": "Run",
+    "Application.Lab60_AllStringMethods.executor": "Run",
+    "Application.Lab61_AllArrayMenthods.executor": "Run",
+    "Application.Lab62_ClassesAndObjectsIntro$Animal.executor": "Run",
+    "Application.Lab63_InitiazingAnObjectUsingReferenceVariable$Animal.executor": "Run",
+    "Application.Lab64_InitializingAnObjectUsingMethods$Animal.executor": "Run",
     "Application.Lab6_String3.executor": "Run",
+    "Application.Lab7_String4.executor": "Run",
     "Application.Lab8.executor": "Run",
     "Application.Lab_01_switchCase.executor": "Run",
     "Application.Lab_04_Min_Max_of_3_using_Ternary_Operator.executor": "Run",
@@ -140,16 +134,17 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/GIT Project/GIT INTELLIJ",
     "onboarding.tips.debug.path": "C:/Users/sumit.sharma/IdeaProjects/ATBX8JavaProjects/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab56_PalindromeUsingStringBuilder">
-    <configuration name="Lab52_Transposeof2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_250924_2D_Arrays.Lab52_Transposeof2dArray" />
+  <component name="RunManager" selected="Application.Lab17_SwitchCaseNewWay5">
+    <configuration name="Lab17_SwitchCaseNewWay5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_160924_SwitchCase.Lab17_SwitchCaseNewWay5" />
       <module name="ATBX8JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT24.Eg_250924_2D_Arrays.*" />
+          <option name="PATTERN" value="SEPT24.Eg_160924_SwitchCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab53_StringContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_260924_Strings.Lab53_StringContainsDuplicate" />
+    <configuration name="Lab4_String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_150924_String.Lab4_String1" />
       <module name="ATBX8JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT24.Eg_260924_Strings.*" />
+          <option name="PATTERN" value="SEPT24.Eg_150924_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab54_PalindromeUsingAnotherString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_260924_Strings.Lab54_PalindromeUsingAnotherString" />
+    <configuration name="Lab5_String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_150924_String.Lab5_String2" />
       <module name="ATBX8JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT24.Eg_260924_Strings.*" />
+          <option name="PATTERN" value="SEPT24.Eg_150924_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab55_WithoutUsingAnotherStringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_260924_Strings.Lab55_WithoutUsingAnotherStringPalindrome" />
+    <configuration name="Lab6_String3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_150924_String.Lab6_String3" />
       <module name="ATBX8JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT24.Eg_260924_Strings.*" />
+          <option name="PATTERN" value="SEPT24.Eg_150924_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab56_PalindromeUsingStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_260924_Strings.Lab56_PalindromeUsingStringBuilder" />
+    <configuration name="Lab7_String4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT24.Eg_150924_String.Lab7_String4" />
       <module name="ATBX8JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT24.Eg_260924_Strings.*" />
+          <option name="PATTERN" value="SEPT24.Eg_150924_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab56_PalindromeUsingStringBuilder" />
-        <item itemvalue="Application.Lab54_PalindromeUsingAnotherString" />
-        <item itemvalue="Application.Lab55_WithoutUsingAnotherStringPalindrome" />
-        <item itemvalue="Application.Lab53_StringContainsDuplicate" />
-        <item itemvalue="Application.Lab52_Transposeof2dArray" />
+        <item itemvalue="Application.Lab17_SwitchCaseNewWay5" />
+        <item itemvalue="Application.Lab7_String4" />
+        <item itemvalue="Application.Lab6_String3" />
+        <item itemvalue="Application.Lab5_String2" />
+        <item itemvalue="Application.Lab4_String1" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726992341432</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit &amp; Push by Sumit on 27-09-2024">
+      <option name="closed" value="true" />
+      <created>1727377525191</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727377525191</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,7 +328,8 @@
     <MESSAGE value="Commit &amp; Push by Sumit on 17-09-2024" />
     <MESSAGE value="Commit &amp; Push by Sumit on 20-09-2024" />
     <MESSAGE value="Commit &amp; Push by Sumit on 22-09-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit &amp; Push by Sumit on 22-09-2024" />
+    <MESSAGE value="Commit &amp; Push by Sumit on 27-09-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit &amp; Push by Sumit on 27-09-2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -21,10 +21,18 @@ public class Lab5_String2 {
         str1 = "string";
         System.out.println(str1);
         System.out.println(str1.hashCode());
-        str1 = new String("NEW") ; // Here you said it will create new Obeject rather pointing to same exiting value in Pool
+        str1 = new String("NEW") ; // Here you said it will create new Object rather pointing to same exiting value in Pool
         System.out.println(str1);
         System.out.println(str1.hashCode());
 
+        System.out.println("________________________________________________");
+
+        String str3 = "Check";
+        System.out.println(str3);
+        System.out.println(str3.hashCode());
+        String str4 = new String("Check");
+        System.out.println(str4);
+        System.out.println(str4.hashCode());
     }
 
 }
