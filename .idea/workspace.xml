@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Commit &amp; Push by Sumit on 15-03-2025">
-      <change afterPath="$PROJECT_DIR$/src/API_Testing/REST_API/REST API _ Intro.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/API_Testing/API Testing Notes_Introduction.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/API_Testing/1.API Testing Notes_Introduction.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/API_Testing/SOAP Document- Mini Project-1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/API_Testing/SOAP/2.SOAP Document- Mini Project-1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API_Testing/REST_API/REST API _ Intro.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/API_Testing/B_REST_API/REST API _ Intro.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API_Testing/SOAP/2.SOAP Document- Mini Project-1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/API_Testing/A_SOAP/2.SOAP Document- Mini Project-1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API_Testing/SOAP/SOAP Project-1.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/API_Testing/A_SOAP/SOAP Project-1.postman_collection.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,8 +190,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sumit.sharma\IdeaProjects\ATBX8JavaProjects\src\API_Testing\REST_API" />
       <recent name="C:\Users\sumit.sharma\IdeaProjects\ATBX8JavaProjects\src\API_Testing\SOAP" />
+      <recent name="C:\Users\sumit.sharma\IdeaProjects\ATBX8JavaProjects\src\API_Testing\REST_API" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="CORE_JAVA.JAVA20_Static_Keyword.Variables_blocks_Methods" />
@@ -411,7 +410,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742024367204</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit &amp; Push by Sumit on 15-03-2025">
+      <option name="closed" value="true" />
+      <created>1742051818922</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742051818922</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Commit &amp; Push by Sumit on 15-03-2025">
+      <option name="closed" value="true" />
+      <created>1742051899561</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1742051899561</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
