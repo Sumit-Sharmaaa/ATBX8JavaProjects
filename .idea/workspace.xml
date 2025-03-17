@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Commit &amp; Push by Sumit on 15-03-2025">
-      <change beforePath="$PROJECT_DIR$/src/API_Testing/REST_API/REST API _ Intro.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/API_Testing/B_REST_API/REST API _ Intro.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/API_Testing/SOAP/2.SOAP Document- Mini Project-1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/API_Testing/A_SOAP/2.SOAP Document- Mini Project-1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/API_Testing/SOAP/SOAP Project-1.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/API_Testing/A_SOAP/SOAP Project-1.postman_collection.json" afterDir="false" />
+    <list default="true" id="aa5412ad-0276-43ad-a182-9748e8d234e8" name="Changes" comment="Commit &amp; Push by Sumit on 17-03-2025">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -426,7 +424,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742051899561</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit &amp; Push by Sumit on 17-03-2025">
+      <option name="closed" value="true" />
+      <created>1742220736476</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1742220736476</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Commit &amp; Push by Sumit on 17-03-2025">
+      <option name="closed" value="true" />
+      <created>1742221171071</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1742221171071</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,7 +469,8 @@
     <MESSAGE value="Commit &amp; Push by Sumit on 10-02-2025" />
     <MESSAGE value="Commit &amp; Push by Sumit on 14-03-2025" />
     <MESSAGE value="Commit &amp; Push by Sumit on 15-03-2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit &amp; Push by Sumit on 15-03-2025" />
+    <MESSAGE value="Commit &amp; Push by Sumit on 17-03-2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit &amp; Push by Sumit on 17-03-2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
